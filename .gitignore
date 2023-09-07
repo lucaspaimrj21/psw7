@@ -1,0 +1,6 @@
+venv
+*pyc
+staticfiles/
+__pycache__
+*.sqlite3
+pyc
